@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRScan</string>
+    <string name="scan_your_camera_qr">Scan your Camera QR !</string>
+    <string name="turn_on_your_mobile_camera_message">Turn on your mobile camera to scan QR code shown on your Camera.</string>
+    <string name="turn_camera_on">Turn Camera On</string>
+    <string name="do_it_later">Do it later</string>
+</resources>
